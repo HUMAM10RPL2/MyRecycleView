@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PAS_Humam_10RPL2</string>
+    <string name="heroes_name">Nama Akun</string>
+    <string name="from">Asal</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Login</string>
+    <string name="share">Logout</string>
+</resources>
